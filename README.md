@@ -86,9 +86,6 @@ Danach die Setup-Datei starten und den Installationsschritten folgen.
 ### Dashboard
 ![Dashboard](screenshots/01-home-dashboard.png)
 
-### New entry / Neuer Eintrag
-![New entry](screenshots/02-new-entry-basic.png)
-
 ### Categories / Kategorien
 ![Categories](screenshots/03-category-selection.png)
 
