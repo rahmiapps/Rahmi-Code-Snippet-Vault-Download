@@ -83,9 +83,6 @@ Danach die Setup-Datei starten und den Installationsschritten folgen.
 
 ## Screenshots
 
-### Dashboard
-![Dashboard](screenshots/01-home-dashboard.png)
-
 ### Categories / Kategorien
 ![Categories](screenshots/03-category-selection.png)
 
