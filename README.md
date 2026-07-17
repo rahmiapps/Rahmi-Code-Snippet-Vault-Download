@@ -83,9 +83,6 @@ Danach die Setup-Datei starten und den Installationsschritten folgen.
 
 ## Screenshots
 
-### Categories / Kategorien
-![Categories](screenshots/03-category-selection.png)
-
 ### Security / Sicherheit
 ![Security](screenshots/05-settings-security.png)
 
